@@ -1,1 +1,5 @@
-add node modules
+# add node modules
+.git
+node_modules/
+
+
